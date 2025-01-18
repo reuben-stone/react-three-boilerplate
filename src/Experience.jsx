@@ -66,7 +66,7 @@ export default function Experience()
                 maxWidth={ 2 }
                 textAlign="center"
             >
-                I LOVE R3F
+                R3F Boilerplate
             </Text>
         </Float>
 
