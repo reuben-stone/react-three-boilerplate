@@ -1,5 +1,5 @@
 # React Three Boilerplate
 
-![Screnshot](/screenshot.png?raw=true "Screenshot")
+![Screnshot](/public/screenshot.png?raw=true "Screenshot")
 
-Live demo: 
+Live demo: https://react-three-boilerplate-eight.vercel.app/
